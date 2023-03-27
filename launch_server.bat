@@ -1,1 +1,2 @@
 node .\start.js
+pause
