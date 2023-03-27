@@ -1,5 +1,5 @@
 @echo off
-
 cd %appdata%\Brick Hill
 
-start "" Player.exe "local/local/42480"
+start "" c:Player.exe "local/local/42480" 
+exit
