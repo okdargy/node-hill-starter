@@ -9,6 +9,6 @@
   "author": "You",
   "license": "ISC",
   "dependencies": {
-    "node-hill": "^13.1.0"
+    "node-hill": "*"
   }
 }
